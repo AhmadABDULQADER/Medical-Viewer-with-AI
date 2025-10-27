@@ -69,10 +69,8 @@ python MPR_final_with_api.py
 
 **⚠️ Medical Disclaimer**: This software is for research and educational purposes only. NOT for clinical diagnosis or treatment. Always consult qualified healthcare professionals.
 
-## 🙏 Credits
+## Contributers
+#### Seif Yamama : https://github.com/saif-mahmoud770
+#### Habiba Ahmad : https://github.com/Habiba753-beep
+#### Dana Hamad : https://github.com/hamaddana6-droid
 
-Built with: SimpleITK • PyQt5 • Matplotlib • Google Gemini • TotalSegmentator
-
----
-
-**Questions?** Open an [issue](https://github.com/yourusername/medical-viewer/issues) or contact: your.email@example.com
