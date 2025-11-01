@@ -9,7 +9,12 @@ AI-enhanced medical imaging viewer with Multi-Planar Reconstruction (MPR), autom
 
 - **Multi-Planar Views**: Axial, Coronal, Sagittal, and Oblique slicing
 - **DICOM & NIfTI Support**: Load single files, series, or create MPR from single slice
-- **AI Anatomy Detection**: Automatic orientation and region identification (Gemini AI)
+- **AI Anatomy Detection**: Automatic orientation and region identification (Gemini AI) <img width="1603" height="942" alt="image" src="https://github.com/user-attachments/assets/9c74b784-af08-4c4f-adba-28e853db58b8" />
+
+- **Slice (mask) view support** : Blue outlined contour on the organ <img width="1603" height="942" alt="image" src="https://github.com/user-attachments/assets/a03e3b84-4033-459e-bc9a-a5c56fa96897" />
+- **Oblique view support** : <img width="1603" height="942" alt="image" src="https://github.com/user-attachments/assets/2b5b3a1a-9e35-4775-aa8b-36e884d2d489" />
+
+
 - **Auto Segmentation**: 100+ organs with TotalSegmentator
 - **3D ROI Tools**: Draw, adjust, and export regions of interest
 - **Cross-View Sync**: Click anywhere to update all views
